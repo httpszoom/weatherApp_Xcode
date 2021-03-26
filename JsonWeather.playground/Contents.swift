@@ -82,3 +82,4 @@ func pullJSONData(url: URL?){
 let url = URL(string: "http://api.openweathermap.org/data/2.5/forecast?q=\(city)&appid=\(apiKey)&units=imperial")
  
 pullJSONData(url: url)
+//test
